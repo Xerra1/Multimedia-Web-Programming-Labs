@@ -1,0 +1,46 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<car_list>
+    <car>
+        <model>BMW F30 320d</model>
+        <price>RM 126,999</price>
+        <description>Metallic White, 185 HP, 8-Speed Auto with Manual Mode (2013)</description>
+        <mileage>50-55k (KM)</mileage>
+        <image>img/320d.png</image>
+    </car>
+    <car>
+        <model>AUDI A5 2.0T Sportback Black Edition</model>
+        <price>RM 273,000</price>
+        <description>Glacier White, 208 HP, 7-Speed S-Tronic Gearbox. (2013)</description>
+        <mileage>0 (Showroom Model) (KM)</mileage>
+        <image>img/A5.png</image>
+    </car>
+    <car>
+        <model>Maserati Ghibli 3.0 V6</model>
+        <price>RM 490,000</price>
+        <description>White, 330 HP, 4-Wheel ABS System (2015)</description>
+        <mileage>5-10k (KM)</mileage>
+        <image>img/Ghibli.png</image>
+    </car>
+     <car>
+        <model>Mercedes Benz A180 1.6 AMG Sport</model>
+        <price>RM 151,800</price>
+        <description>White, 122HP, 7-Speed DCT Auto, Turbocharged CGI (2013)</description>
+        <mileage>10-15k (KM)</mileage>
+        <image>img/A180.png</image>
+    </car>
+    <car>
+        <model>Range Rover Evoque 2.0 Si4</model>
+        <price>RM 253,000</price>
+        <description>White, 241HP, 6-Speed Auto, Full Leather Seats (2012)</description>
+        <mileage>15-20k (KM)</mileage>
+        <image>img/Evoque.png</image>
+    </car>
+    <car>
+        <model>Volkswagen Scirocco 1.4</model>
+        <price>RM 98,000</price>
+        <description>White, 160HP, 7-Speed Auto, TSI Engine (2013)</description>
+        <mileage>30-35k (KM)</mileage>
+        <image>img/Scirocco.png</image>
+    </car>
+
+</car_list>
