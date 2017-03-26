@@ -5,7 +5,7 @@ var path = require('path');
 
 //Request handler
 app.get('/', function(req, res){
-    res.send("Type localhost:8081/lab 1/lab1.html or localhost:8081/lab 2/lab2.html to view.");
+    res.send("Type localhost:8081/lab_1/lab1.html or localhost:8081/lab_2/lab2.html to view.");
 });
 
 //Sets which port the server will be listening from.
