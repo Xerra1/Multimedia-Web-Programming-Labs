@@ -1,7 +1,20 @@
-var express = require('express');
-var path = require('path');
+const express = require('express');
+const path = require('path');
+//var pg = require('pg');
 
-    var app = express();
+
+const app = express();
+/*var client = new pg.CLient();               //Instantiate a new client that will read info from the same environment variables used by postegres cli tools
+
+client.connect(function(err){               //Connect client to database
+    if (err)
+        throw err;
+    
+    client.query('')
+});
+*/
+
+
 
 //Request handler
 app.get('/', function(req, res){
