@@ -1,1 +1,51 @@
-<list/>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <product>
+        <name>Vitamin E Cool BB Cream</name>
+        <desc>Our moisturising BB cream provides lightweight coverage while it illuminates and evens skin tone, as well as protective moisture for 12 hours. Its lightweight texture blends easily for a fresher and more natural look. Made with protective vitamin E and moisturising wheatgerm oil. Use as part of your personalised skincare programme.</desc>
+        <price>16.25</price>
+        <img>img/bb_cream.jpg</img>
+    </product>
+    <product>
+        <name>Herb Day Cleansing Foam Aloe</name>
+        <desc>This cleanser will leave your skin supple and soft to the touch. Its formula is enriched with aloe and its soft foaming texture soothes irritated skin and provides the epidermis with intense hydration.</desc>
+        <price>7.00</price>
+        <img>img/face_cleanser.jpg</img>
+    </product>
+    <product>
+        <name>REAL NATURE Face Mask Honey</name>
+        <desc>Get radiant and illuminated skin in an instant with this Honey Face Mask. The honey extract, with its nourishing properties, reveals younger looking, invigorated skin. Contains one single-use face mask.</desc>
+        <price>3.00</price>
+        <img>img/face_mask.jpg</img>
+    </product>
+    <product>
+        <name>Fijian Water Lotus Fragrance Mist</name>
+        <desc>This fragrance mist subtly scents your entire body with the sparkling zest of mandarin, aquatic facets of water lotus and a hint of marine saltiness.</desc>
+        <price>10.62</price>
+        <img>img/fragrance_mist.jpg</img>
+    </product>
+    <product>
+        <name>Moisture Foundation SPF 15</name>
+        <desc>This lightweight liquid foundation is buildable and blendable for a dewy, picture-perfect finish. With no added fragrance and SPF 15, this foundation delivers a healthy looking, radiant complexion.</desc>
+        <price>18.75</price>
+        <img>img/moisture_foundation.jpg</img>
+    </product>
+    <product>
+        <name>YEHWADAM Revitalizing Toner</name>
+        <desc>The perfect skincare range that prevents the signs of premature aging, the Revitalizing line makes dull skin radiant again. YEHWADAM contains ingredients obtained from Korea improve skin luminosity. </desc>
+        <price>58.00</price>
+        <img>img/revitalizing_toner.jpg</img>
+    </product>
+    <product>
+        <name>Shade Adjusting Drops</name>
+        <desc>You wouldn’t settle for Mr. “Almost right” so why do it with your foundation? Our Shade Adjusting Drops help turn an almost there shade into the perfect one.</desc>
+        <price>12.50</price>
+        <img>img/shade_drops.jpg</img>
+    </product>
+    <product>
+        <name>Calendula Essential Moisture Serum</name>
+        <desc>Get closer to the skin of your dreams with the moisturizing and soothing effects of Calendula. This hydrating soothing serum works gently on the skin. Soothing Herb Complex contains 6 different herbs - Chamomile, Cornflower, Rooibos, Lilly, Sage and Borage. It soothes, moisturizes and leaves skin feeling comfortable.</desc>
+        <price>21.00</price>
+        <img>img/moisture_serum.png</img>
+    </product>
+</root>

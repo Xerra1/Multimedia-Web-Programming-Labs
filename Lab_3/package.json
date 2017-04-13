@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
-    "pg": "^6.1.5"
+    "pg": "^6.1.5",
+    "xml-writer": "^1.7.0"
   }
 }
